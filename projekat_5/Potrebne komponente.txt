@@ -1,0 +1,4 @@
+Potrebne komponente:
+1. ARDUINO
+2. HCSR04 (ultrasonicni senzor)
+3. virtualni terminal

@@ -1,0 +1,6 @@
+Zadatak 7
+
+potrebno je napraviti parking senzor samo sa diodama. u zavisnosti koja
+je udaljenost potrebno je upaliti odredjeni broj dioda. U zadatku je potrebno
+koristiti ultrazvucni senzor. Virtualni terminal nije potreban ali radi provjere je vrolo
+koristan
